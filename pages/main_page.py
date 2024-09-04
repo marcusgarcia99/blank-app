@@ -5,7 +5,7 @@ st.markdown("# Intrusive Thoughts 🎈")
 
 with st.sidebar:
     st.sidebar.markdown("# Well Thought Out Thoughts 🎈")
-    st.write("Chick-Fil-A should be open on Sundays cuz thats when I crave it. Do you agree?")
+    st.write("Birds are both flying rats and government drones.")
     st.radio("Pick one", ["Agreed", "You need therapy."])
 
 st.write("Chicken burgah")
