@@ -51,8 +51,8 @@ with expand:
 st.button("Click me")
 #st.download_button("Download file",data)
 st.feedback("thumbs")
-url = 'https://www.icegif.com/rick-roll-21/'
-st.link_button("Go to gallery", url)
+url = 'https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif'
+st.link_button("Click for unlimited moneys", url)
 #st.page_link("app.py", label="Home")
 #st.data_editor("Edit data", data)
 st.checkbox("I agree")
