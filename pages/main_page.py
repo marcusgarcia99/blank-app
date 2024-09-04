@@ -9,3 +9,5 @@ with st.sidebar:
     st.radio("Pick one", ["Agreed", "You need therapy."])
 
 st.write("Chicken burgah")
+
+st.write("Bologna should be spelled belowknee")
